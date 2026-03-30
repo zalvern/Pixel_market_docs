@@ -1,0 +1,3 @@
+- [ ] Write subdivision information
+- [ ] Write staff points system logic
+- [ ] Create a clan for the business
